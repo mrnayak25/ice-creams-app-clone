@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { ShoppingBag, Menu, ChevronRight, ArrowDown } from "lucide-react";
-import bgImage from "./assets/bg.jpg";
-import "./HeroSection.css";
+import bgImage from "../assets/bg.jpg";
+import "../HeroSection.css";
 
 const HeroSection = () => {
   const [bgSize, setBgSize] = useState(100); // %
