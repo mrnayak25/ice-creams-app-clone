@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HeroSection from './HeroSection'; // adjust path if it's in a folder like ./components/HeroSection
+import HeroSection from './components/HeroSection'; // adjust path if it's in a folder like ./components/HeroSection
 
 function App() {
   return (

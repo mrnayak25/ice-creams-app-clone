@@ -33,9 +33,7 @@ const HeroSection = () => {
       }}
     >
       {/* rest of your content untouched */}
-
       <div className="hero-overlay"></div>
-
       {/* Navbar */}
       <nav className="hero-nav">
         <div className="hero-brand">
